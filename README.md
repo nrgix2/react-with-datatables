@@ -7,7 +7,3 @@ a react app with the <a href="https://datatables.net/">datatables.net</a> librar
 <a href="https://nces.ed.gov/ipeds/use-the-data">IPEDS (Integrated Postsecondary Education Data System)</a>
 which allowed me to have some data to populate the datatable with.
 </p>
-
-<p>
-  After I r
-</p>
