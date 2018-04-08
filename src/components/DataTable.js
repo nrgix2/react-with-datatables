@@ -69,9 +69,7 @@ class DataTable extends Component {
       <div>
         <table
           id="table"
-          className="table table-striped table-hover
-          driver-table driver-table-responsive display
-          dt-responsive"
+          className="table table-striped table-hover driver-table driver-table-responsive display dt-responsive"
           width="100%"
           ref={el => this.el = el}
         ></table>
