@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="container">
-        <h3 className="title">Schools in the United States</h3>
+        <h3 className="title">Colleges and Universities in the United States</h3>
         <p className="description"><i>This is a datatable which combines the very
           helpful <a href="https://datatables.net/">DataTables.net</a> library
           and <a href="https://reactjs.org/">Create React App</a>. Hopefully
